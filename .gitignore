@@ -1,2 +1,7 @@
 node_modules
 generated.csv
+index-linux
+.gitignore
+index-win.exe
+index-macos
+.gitignore
